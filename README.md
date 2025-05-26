@@ -103,7 +103,7 @@ endmodule
 
 ### Simulation Waveforms
 
-![4-bit adder verilog](https://github.com/user-attachments/assets/2b08a51a-c691-4ebe-ae9e-ddc297eb5b03)
+![4-bit adder verilog](https://github.com/user-attachments/assets/a3e94fbe-9049-4701-b57f-152f41f69882)
 
 
 
